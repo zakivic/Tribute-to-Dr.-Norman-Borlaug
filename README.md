@@ -1,1 +1,1 @@
-# Example of Tribute-to-Dr.-Norman-Borlaug
+# Example for students of Tribute-to-Dr.-Norman-Borlaug
